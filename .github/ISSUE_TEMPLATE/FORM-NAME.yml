@@ -24,4 +24,4 @@ body:
   - type: textarea
     id: RTLVersion
     attributes:
-      label: "### RTL Version"
+      label: ### RTL Version"
