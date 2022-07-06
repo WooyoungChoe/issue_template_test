@@ -41,8 +41,9 @@ body:
     id: Reproduce
     attributes:
       label: To Reproduce
-      value:
-        "DV Version"
-        "Run Script"
-        "Waveform path"
-        "Log path"
+      multiple: true
+      options:
+        - DV Version
+        - Run Script
+        - Waveform path
+        - Log path
