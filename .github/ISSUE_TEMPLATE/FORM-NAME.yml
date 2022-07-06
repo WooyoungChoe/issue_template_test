@@ -16,10 +16,10 @@ body:
     id: RTL-version
     attributes:
       label: RTL Version 
-      description: What version of our software are you running?
+      multiple: true
       options:
         - 1.11 (Default)
-        - 1.12
+        - 1.12 
         - 1.13
         - 1.14
         - 1.15
