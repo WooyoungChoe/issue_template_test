@@ -1,7 +1,7 @@
 name: Issue Report(RNG)
 description: File a Issue report
 title: "[RNG- ]: "
-labels: [verification, Needs Triage]
+labels: [Verification, Needs Triage]
 assignees:
   - octocat
 body:
