@@ -19,7 +19,7 @@ body:
     validations:
       required: true
   - type: markdown
-    attribute:
+    attributes:
       value: "# Reproduce"
   - type: textarea
     id: RTL Version
