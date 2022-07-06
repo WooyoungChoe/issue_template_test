@@ -18,17 +18,10 @@ body:
       description: Description of what the issue is
     validations:
       required: true
-  - type: textarea
-    id: Reproduce
-    attributes:
-      label: To Reproduce
-      value: |
-        RTL Version :
-        DV Version :
-        Run Script :
-        Waveform Path :
-        Log Path :
   - type: markdown
+    attribute:
+      value: "# Reproduce"
+  - type: textarea
+    id: RTL Version
     attributes:
-      value: |
-        Thanks for taking the time to fill out this bug report!
+      label: RTL Version
