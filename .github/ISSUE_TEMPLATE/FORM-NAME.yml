@@ -18,3 +18,13 @@ body:
       label: RTL Version
     validations:
       required: true
+  - type: textarea
+    id: Reproduce
+    attributes:
+      label: To Reproduce
+      value:
+        "DV Version"
+        "Run Script"
+        "Expected behavior"
+        "Wavform Path"
+        "Log Path"
