@@ -1,7 +1,7 @@
 name: Issue Report(RNG)
 description: File a Issue report
 title: "[RNG- ]: "
-labels: verification
+labels: [verification, Needs Triage]
 assignees:
   - octocat
 body:
@@ -22,4 +22,7 @@ body:
         Run Script :
         Waveform Path :
         Log Path :
-        
+  - type: markdown
+    attributes:
+      value: |
+        Thanks for taking the time to fill out this bug report!
