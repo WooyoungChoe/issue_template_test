@@ -24,4 +24,16 @@ body:
   - type: textarea
     id: RTLVersion
     attributes:
-      label: ### RTL Version"
+      label: RTL Version
+  - type: textarea
+    id: DVEnv
+    attributes:
+      label: DV Version
+  - type: textarea
+    id: WaveformPath
+    attributes:
+      label: Waveform Path
+  - type: textarea
+    id: LogPath
+    attributes:
+      label: Log Path
