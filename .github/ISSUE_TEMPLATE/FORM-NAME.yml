@@ -12,7 +12,7 @@ body:
       description: Description of what the issue is
     validations:
       required: true
-  - type: testarea
+  - type: textarea
     id: RTL-version
     attributes:
       label: RTL Version
