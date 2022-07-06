@@ -30,6 +30,10 @@ body:
     attributes:
       label: DV Version
   - type: textarea
+    id: RunScript
+    attributes:
+      label: Run Script
+  - type: textarea
     id: WaveformPath
     attributes:
       label: Waveform Path
