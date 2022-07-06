@@ -25,6 +25,8 @@ body:
     id: RTLVersion
     attributes:
       label: RTL Version
+    validations:
+      required: true
   - type: textarea
     id: DVEnv
     attributes:
@@ -37,7 +39,11 @@ body:
     id: WaveformPath
     attributes:
       label: Waveform Path
+    validations:
+      required: true
   - type: textarea
     id: LogPath
     attributes:
       label: Log Path
+    validations:
+      required: true
