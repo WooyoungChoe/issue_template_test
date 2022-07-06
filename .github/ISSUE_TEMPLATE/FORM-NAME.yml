@@ -41,5 +41,5 @@ body:
     id: Reproduce
     attributes:
       label: To Reproduce
-      value:
+      value: |
         "DV Version"
