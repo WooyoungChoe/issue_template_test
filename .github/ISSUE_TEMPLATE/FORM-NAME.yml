@@ -13,16 +13,11 @@ body:
     validations:
       required: true
   - type: textarea
-    id: RTL-version
-    attributes:
-      label: RTL Version
-    validations:
-      required: true
-  - type: textarea
     id: Reproduce
     attributes:
       label: To Reproduce
       value: |
+        RTL Version :
         DV Version :
         Run Script :
         Waveform Path :
