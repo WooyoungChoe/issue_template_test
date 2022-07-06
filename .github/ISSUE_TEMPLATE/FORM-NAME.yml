@@ -12,13 +12,9 @@ body:
       description: Description of what the issue is
     validations:
       required: true
-  - type: dropdown
+  - type: testarea
     id: RTL-version
     attributes:
-      label: RTL Version 
-      multiple: true
-      options:
-        - 1.11 (Default)
-        - 1.12
+      label: RTL Version
     validations:
       required: true
