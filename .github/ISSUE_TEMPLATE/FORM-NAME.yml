@@ -6,14 +6,14 @@ assignees:
   - octocat
 body:
   - type: textarea
-    id: Describe the Issue
+    id: Describe-the-Issue
     attributes:
       label: Describe the Issue
       description: Description of what the issue is
     validations:
       required: true
   - type: dropdown
-    id: RTL version
+    id: RTL-version
     attributes:
       label: RTL Version 
       description: What version of our software are you running?
