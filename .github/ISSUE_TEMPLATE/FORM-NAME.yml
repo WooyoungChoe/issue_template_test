@@ -37,9 +37,3 @@ body:
         - 2.10
     validations:
       required: true
-  - type: textarea
-    id: Reproduce
-    attributes:
-      label: To Reproduce
-      value: |
-        "DV Version"
