@@ -10,6 +10,9 @@ body:
     attributes:
       label: Describe the Issue
       description: Description of what the issue is
+      value: |
+        1. Issued Block ::
+        2. Description ::
     validations:
       required: true
   - type: markdown
